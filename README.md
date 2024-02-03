@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.230917.001 V816.0.1.0.ULJCNXM release-keys
+- manufacturer: xiaomi
+- platform: taro
+- codename: ingres
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.230917.001
+- incremental: V816.0.1.0.ULJCNXM
+- tags: release-keys
+- fingerprint: Redmi/ingres/ingres:12/SKQ1.230401.001/V816.0.1.0.ULJCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phone_cn-user-14-UKQ1.230917.001-V816.0.1.0.ULJCNXM-release-keys
+- repo: redmi_ingres_dump
